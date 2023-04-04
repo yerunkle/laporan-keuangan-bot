@@ -1,7 +1,7 @@
 //CONFIG
-var BOT_TOKEN = "1234567890:abcdefghijklmnopqrstuvwxyz" //BOT TOKEN ANDA
-var SS_URL = "https://docs.google.com/spreadsheets/d/abcdefghijklmnopq/edit#gid=0" //URL SPREADSHEET
-var SHEET_NAME = "laporan" //NAMA SHEET
+var BOT_TOKEN = "5654136018:AAFAHQlF3pqIyBZIB_PxlP7_SY97secF7hc" //BOT TOKEN ANDA
+var SS_URL = "https://docs.google.com/spreadsheets/d/1waEJVwQ_cPEwjNGRX9vUxthiUtKHt_YL6A78WGaDz1Y/edit#gid=501508944" //URL SPREADSHEET
+var SHEET_NAME = "LAPORAN" //NAMA SHEET
 var USERS = [
 	173739838,
 	183837728
